@@ -58,8 +58,8 @@ All collection data is automatically stored in and restored from `.txt` files us
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/amazon-inventory-system.git
-   cd amazon-inventory-system
+   git clone https://github.com/mangoproject80-meow/AmazonInventorySystem
+   cd AmazonInventorySystem
    ```
 
 2. **Compile the Java Program:**
